@@ -1,6 +1,4 @@
-# Ville Distance
-
-### Triage Des Mots
+### Ville Distance
 
 #### Projet Scolaire
 - Utilisant `Python` et `PyQT5` pour construire un logiciel avec une interface graphique (GUI).
